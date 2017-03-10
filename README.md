@@ -1,9 +1,8 @@
-# [gulp][gulp]-css-url-quotes [![Build Status](https://travis-ci.org/mathxlee/gulp-css-url-quotes.svg?branch=master)][ci] [![npm version](https://badge.fury.io/js/gulp-css-url-quotes.svg)](https://badge.fury.io/js/gulp-css-url-quotes) [![Dependency Status](https://gemnasium.com/badges/github.com/mathxlee/gulp-css-url-quotes.svg)](https://gemnasium.com/github.com/mathxlee/gulp-css-url-quotes)
+# [gulp](https://github.com/gulpjs/gulp)-css-url-quotes [![Build Status](https://travis-ci.org/mathxlee/gulp-css-url-quotes.svg?branch=master)](https://travis-ci.org/mathxlee/gulp-css-url-quotes) [![npm version](https://badge.fury.io/js/gulp-css-url-quotes.svg)](https://badge.fury.io/js/gulp-css-url-quotes) [![Dependency Status](https://gemnasium.com/badges/github.com/mathxlee/gulp-css-url-quotes.svg)](https://gemnasium.com/github.com/mathxlee/gulp-css-url-quotes)
 
-> Echo file(s) to the console.
+> A css url() quotes plugin for gulp
 
-Echo the contents of files to the console. Great for ASCII art, banners and
-important documentation. Inspired by https://npmjs.org/package/gulp-css-url-quotes
+If you have any advice, please let me know, and welcome to my blog: [http://mathxlee.github.io/](http://mathxlee.github.io/)
 
 ## Installation
 
