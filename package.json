@@ -1,26 +1,27 @@
 {
-    "name": "gulp-css-url-quotes",
-    "version": "0.0.1",
-    "description": "A css url() quotes plugin for gulp",
-    "main": "index.js",
-    "scripts": {
-        "test": "mocha"
-    },
-    "keywords": [
-        "gulp",
-        "gulpplugin",
-        "quotes",
-        "css"
-    ],
-    "author": {
-        "name": "Matthew Lee",
-        "email": "woood@hotmail.com",
-        "url": "http://mathxlee.github.io"
-    },
-    "license": "MIT",
-    "dependencies": {
-        "gulp-util": "^3.0.8",
-        "mocha": "^3.2.0",
-        "through2": "^2.0.3"
-    }
+  "name": "gulp-css-url-quotes",
+  "version": "0.0.1",
+  "description": "A css url() quotes plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "quotes",
+    "css"
+  ],
+  "author": {
+    "name": "Matthew Lee",
+    "email": "woood@hotmail.com",
+    "url": "http://mathxlee.github.io"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "mocha": "^3.2.0",
+    "through2": "^2.0.3"
+  }
 }
