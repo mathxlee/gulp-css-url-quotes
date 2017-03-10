@@ -1,0 +1,7 @@
+html {
+    background-image: url(//static.img.com/img/static.png);
+}
+
+body {
+    background-image: url(/img/static.png);
+}
