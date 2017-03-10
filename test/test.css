@@ -5,3 +5,11 @@ html {
 body {
     background-image: url(/img/static.png);
 }
+
+body {
+    background-image: url("/img/static.png");
+}
+
+body {
+    background-image: url('/img/static.png');
+}

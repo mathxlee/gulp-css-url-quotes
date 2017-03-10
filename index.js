@@ -27,7 +27,7 @@ module.exports = function() {
     return through2.obj(function(file, enc, cb) {
 
         var contents = '',
-            urlPattern = /url\(([\s\S]*)\)/g,
+            urlPattern = /url\(([^)]+)\)/g,
             quotesPattern = /["\']/g;
 
         if (file.isNull()) {
@@ -37,8 +37,8 @@ module.exports = function() {
 
         contents = (file.contents || '').toString();
 
-        contents.replace(urlPattern, function(others, matched) {
-            return 'url("' + matched.replace(quotesPattern, '') + '")';
+        contents = contents.replace(urlPattern, function(matched, submatch) {
+            return 'url("' + submatch.replace(quotesPattern, '') + '")';
         });
 
         if (file.isStream()) {
