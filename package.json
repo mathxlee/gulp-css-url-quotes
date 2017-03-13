@@ -17,6 +17,10 @@
         "email": "woood@hotmail.com",
         "url": "http://mathxlee.github.io"
     },
+    "homepage": "https://github.com/mathxlee/gulp-css-url-quotes",
+    "bugs": {
+        "url": "https://github.com/mathxlee/gulp-css-url-quotes/issues"
+    },
     "license": "MIT",
     "dependencies": {
         "gulp": "^3.9.1",
