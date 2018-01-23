@@ -1,4 +1,4 @@
-# [gulp](https://github.com/gulpjs/gulp)-css-url-quotes [![Build Status](https://travis-ci.org/mathxlee/gulp-css-url-quotes.svg?branch=master)](https://travis-ci.org/mathxlee/gulp-css-url-quotes) [![npm version](https://badge.fury.io/js/gulp-css-url-quotes.svg)](https://badge.fury.io/js/gulp-css-url-quotes) [![Dependency Status](https://gemnasium.com/badges/github.com/mathxlee/gulp-css-url-quotes.svg)](https://gemnasium.com/github.com/mathxlee/gulp-css-url-quotes)
+# [gulp-css-url-quotes](https://github.com/gulpjs/gulp) [![Build Status](https://travis-ci.org/mathxlee/gulp-css-url-quotes.svg?branch=master)](https://travis-ci.org/mathxlee/gulp-css-url-quotes) [![npm version](https://badge.fury.io/js/gulp-css-url-quotes.svg)](https://badge.fury.io/js/gulp-css-url-quotes) [![Dependency Status](https://gemnasium.com/badges/github.com/mathxlee/gulp-css-url-quotes.svg)](https://gemnasium.com/github.com/mathxlee/gulp-css-url-quotes)
 
 > A css url() quotes plugin for gulp
 
