@@ -3,9 +3,6 @@
   "version": "0.0.4",
   "description": "A css url() quotes plugin for gulp",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
   "keywords": [
     "gulp",
     "gulpplugin",
