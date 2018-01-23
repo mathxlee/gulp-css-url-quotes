@@ -1,31 +1,34 @@
 {
-    "name": "gulp-css-url-quotes",
-    "version": "0.0.3",
-    "description": "A css url() quotes plugin for gulp",
-    "main": "index.js",
-    "scripts": {
-        "test": "mocha"
-    },
-    "keywords": [
-        "gulp",
-        "gulpplugin",
-        "quotes",
-        "css"
-    ],
-    "author": {
-        "name": "Matthew Lee",
-        "email": "woood@hotmail.com",
-        "url": "http://mathxlee.github.io"
-    },
-    "homepage": "https://github.com/mathxlee/gulp-css-url-quotes",
-    "bugs": {
-        "url": "https://github.com/mathxlee/gulp-css-url-quotes/issues"
-    },
-    "license": "MIT",
-    "dependencies": {
-        "gulp": "^3.9.1",
-        "gulp-util": "^3.0.8",
-        "mocha": "^3.2.0",
-        "through2": "^2.0.3"
-    }
+  "name": "gulp-css-url-quotes",
+  "version": "0.0.4",
+  "description": "A css url() quotes plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "quotes",
+    "css"
+  ],
+  "author": {
+    "name": "Matthew Lee",
+    "email": "woood@hotmail.com",
+    "url": "http://mathxlee.github.io"
+  },
+  "homepage": "https://github.com/mathxlee/gulp-css-url-quotes",
+  "bugs": {
+    "url": "https://github.com/mathxlee/gulp-css-url-quotes/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "mocha": "^5.0.0",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "event-stream": "^3.3.4"
+  }
 }
